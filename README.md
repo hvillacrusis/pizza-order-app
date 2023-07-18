@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the project to your local directory
 
 ```bash
-git clone https://github.com/user/pizza-order-app.git
+git clone https://github.com/hvillacrusis/pizza-order-app.git
 ```
 
 2. Clone the project to your local directory
