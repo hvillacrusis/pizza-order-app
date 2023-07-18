@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Margherita",
+        "price": 15.00,
+        "imageUrl": "https://images.pexels.com/photos/6940996/pexels-photo-6940996.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "Pepperoni",
+        "price": 18.00,
+       "imageUrl": "https://images.pexels.com/photos/4109073/pexels-photo-4109073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id": "3",
+        "name": "BBQ Chicken",
+        "price": 20.00,
+        "imageUrl": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id": "4",
+        "name": "Veggie",
+        "price": 20.00,
+        "imageUrl": "https://images.pexels.com/photos/1435903/pexels-photo-1435903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": "5",
+        "name": "Shrimp",
+        "price": 20.00,
+        "imageUrl": "https://images.pexels.com/photos/13082261/pexels-photo-13082261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": "6",
+        "name": "All Meat",
+        "price": 20.00,
+        "imageUrl": "https://images.pexels.com/photos/3731423/pexels-photo-3731423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]

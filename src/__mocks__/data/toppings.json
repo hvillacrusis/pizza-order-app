@@ -1,0 +1,17 @@
+[
+    {
+        "id": "toppings-1",
+        "name": "Pepperoni",
+        "price": 2.00
+    },
+    {
+        "id": "toppings-2",
+        "name": "Mushrooms",
+        "price": 1.50
+    },
+    {
+        "id": "toppings-3",
+        "name": "Green Peppers",
+        "price": 1.50
+    }
+]
